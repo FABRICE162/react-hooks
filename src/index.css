@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(101, 151, 196);
+    
+    font-size: 1rem;
+    justify-items: center;
+  
+}
+#btn{
+    border-radius: 8px;
+    font-family: monospace;
+    justify-content: space-between;
+    color: rgb(103, 71, 243);
+}
+#btn :hover{
+    border-color:blue ;
+}
+.introduction{
+    margin-right: 1000px;
+    font-family:lato;
+    font-size: 20px;
+}
+.container{
+    justify-items: center;
+    top: 10;
+    font-family: lato;
+    
+}
+.back{
+    text-decoration: none;
+    font-family: monospace;
+    border-radius: 8px;
+}
+.sub{
+    margin-right: 1200px;
+}
+.context{
+    margin-right: 100px;
+}
